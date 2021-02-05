@@ -10,18 +10,19 @@ class Knife :public Weapon
 public:
 	Knife();
 
-	//获取基础伤害
+	//鑾峰彇鍩虹浼ゅ
 	virtual int getBaseDamage();
 
-	//获取吸血
+	//鑾峰彇鍚歌
 	virtual int getSuckBlood();
 
-	//获取是否定身
+	//鑾峰彇鏄惁瀹氳韩
 	virtual bool getHold();
 
-	//获取是否暴击
+	//鑾峰彇鏄惁鏆村嚮
 	virtual bool getCrit();
 
 };
 
 skgdfksgdfksgdfjhsgfjsgfjs
+鎴戞槸杩滅▼浠撳簱鏀圭殑
